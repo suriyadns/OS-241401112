@@ -1,0 +1,3 @@
+Unix is a powerful operating system.
+Editors include vi, emacs, and sed.
+Testing vi editor for my OS Lab.
